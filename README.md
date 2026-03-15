@@ -72,7 +72,7 @@ Fun Fact : I went from "just getting placed"
   <tr>
     <td>
       <h3>💼 Internship</h3>
-      <b>Software Engineering Intern</b><br/>
+      <b>FullStack Intern</b><br/>
       Edunet Foundation × EY GDS × AICTE — <i>2024</i><br/>
       <sub>Built scalable real-world applications · Collaborated with cross-functional teams · Understood production engineering</sub>
     </td>
