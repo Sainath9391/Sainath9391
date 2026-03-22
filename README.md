@@ -66,7 +66,7 @@ Fun Fact : I went from "just getting placed"
 
 ---
 
-## 🚀 Experience & Journey
+##  Experience & Journey
 
 <table>
   <tr>
